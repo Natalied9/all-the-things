@@ -1,7 +1,3 @@
-$( document ).ready(function() {
-    console.log( "ready!" );
-});
-
 var acc = document.getElementsByClassName("accordion");
 var i;
 
